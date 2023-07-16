@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uGMAd/u/Ujp6lwyOhtJ2HAZxWr1mKIRWc2mZ4rfbSTdB2ggoCoAZozB3b1QMHXVpIWf0MFZZNATTt/E7Is1hw==",
+  "success": true,
+  "projectFilePath": "/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak.iOS/RottedORjailBreak.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/htcuser/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/htcuser/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/htcuser/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

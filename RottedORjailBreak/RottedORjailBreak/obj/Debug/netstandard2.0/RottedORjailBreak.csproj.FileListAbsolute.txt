@@ -1,0 +1,15 @@
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/bin/Debug/netstandard2.0/RottedORjailBreak.deps.json
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/bin/Debug/netstandard2.0/RottedORjailBreak.dll
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/bin/Debug/netstandard2.0/ref/RottedORjailBreak.dll
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/bin/Debug/netstandard2.0/RottedORjailBreak.pdb
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/RottedORjailBreak.csproj.AssemblyReference.cache
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/RottedORjailBreak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/RottedORjailBreak.AssemblyInfoInputs.cache
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/RottedORjailBreak.AssemblyInfo.cs
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/RottedORjailBreak.csproj.CoreCompileInputs.cache
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/RottedORjailBreak.dll
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/refint/RottedORjailBreak.dll
+/Users/htcuser/Desktop/Practice/JailBreak/RottedORjailBreak/RottedORjailBreak/RottedORjailBreak/obj/Debug/netstandard2.0/RottedORjailBreak.pdb
